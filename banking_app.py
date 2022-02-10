@@ -1,6 +1,7 @@
 portal_version = 1.1
 bank_name = 'Crypto Bank'
 isLogged = False
+
 print('Hello, welcome to ' + bank_name)
 print('You are using the banking portal version ', end=' ')
 print(portal_version)
